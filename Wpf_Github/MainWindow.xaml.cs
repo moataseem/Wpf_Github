@@ -24,5 +24,10 @@ namespace Wpf_Github
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Master");
+        }
     }
 }
