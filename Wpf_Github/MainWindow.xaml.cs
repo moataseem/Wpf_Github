@@ -27,7 +27,7 @@ namespace Wpf_Github
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Master");
+            MessageBox.Show("version 1");
         }
     }
 }
